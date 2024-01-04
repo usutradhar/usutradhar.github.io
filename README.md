@@ -39,12 +39,14 @@ Conference Presentations
 3.	Das, T., Sutradhar, U., Faruque, G. M., Hadiuzzaman, M., & Mashrur, S. M. (2019, August). Exploring Heterogeneity in Perception of Service Quality among Groups of Passenger Ferry Users. In International Conference on Transportation and Development 2019: Smarter and Safer Mobility and Cities (pp. 466-476). Reston, VA: American Society of Civil Engineers.
 
 ________________________________________
-Skills
+### Skills
 •	Programming Languages: Python, R
+
 •	Software: GREET life-cycle model, MOVES motor vehicle emission simulator, PTV Vissim, ArcGIS, AutoCAD, EMME, BIOGEME and Microsoft Office.
+
 •	Languages: English- Proficient, Bangla- Native Language
 ________________________________________
-Honors and Awards
+### Honors and Awards
 •	WTS Greater Chicago Chapter - President’s Scholarship (2022-23)
 
 
