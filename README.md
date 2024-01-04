@@ -4,6 +4,7 @@
 
 ### Education
 Ph.D. Candidate, University of Illinois Chicago, Chicago, IL
+
 Advisor: Prof. Sybil Derrible
 
 M.Sc. in Civil and Transportation Engineering 
