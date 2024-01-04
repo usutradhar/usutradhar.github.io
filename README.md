@@ -3,13 +3,14 @@
 
 
 ### Education
-Ph.D. Candidate, University of Illinois Chicago, Chicago, IL \ Advisor: Prof. Sybil Derrible
+Ph.D. Candidate, University of Illinois Chicago, Chicago, IL \ 
+Advisor: Prof. Sybil Derrible
 
-M.Sc. in Civil and Transportation Engineering 
+M.Sc. in Civil and Transportation Engineering \
 Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh
 December 2020
 
-B.Sc. in Civil Engineering
+B.Sc. in Civil Engineering \
 Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh 
 February 2017
 
