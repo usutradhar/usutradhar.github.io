@@ -42,7 +42,7 @@ ________________________________________
 ### Skills
 •	Programming Languages: Python, R
 
-•	Software: GREET life-cycle model, MOVES motor vehicle emission simulator, PTV Vissim, ArcGIS, AutoCAD, EMME, BIOGEME and Microsoft Office.
+•	Software: GREET life-cycle model, MOVES, PTV Vissim, ArcGIS, AutoCAD, EMME, BIOGEME and Microsoft Office.
 
 •	Languages: English- Proficient, Bangla- Native Language
 
