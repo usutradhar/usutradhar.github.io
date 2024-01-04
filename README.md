@@ -15,7 +15,7 @@ Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh
 
 
 ### Research Experience
-**Research Assistant** Complex and Sustainable Urban Networks Laboratory, Civil, Material and Environment Engineering, University of Illinois Chicago, Chicago, IL
+**Research Assistant** **Complex and Sustainable Urban Networks Laboratory**, University of Illinois Chicago, Chicago, IL\
 August 2021 – Present
 •	Depopulation in Illinois: Understanding and Forecasting Impacts on Transportation (May 2021-
 Present)
