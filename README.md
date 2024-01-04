@@ -46,7 +46,6 @@ ________________________________________
 
 •	Languages: English- Proficient, Bangla- Native Language
 
-________________________________________
 ### Honors and Awards
 •	WTS Greater Chicago Chapter - President’s Scholarship (2022-23)
 
