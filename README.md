@@ -33,4 +33,17 @@ Journal Articles
 2.	Sutradhar, U., Badhrudeen, M., Chauhan, R. S., & Derrible, S. (2023). A survey to investigate transport conditions in depopulating cities in Illinois. Transportation Research Interdisciplinary Perspectives, 21, 100886.
 3.	Chauhan, R. S., da Silva, D. C., Salon, D., Shamshiripour, A., Rahimi, E., Sutradhar, U., ... & Pendyala, R. (2021). COVID-19 related attitudes and risk perceptions across urban, rural, and suburban areas in the United States. Findings, 23714.
 
+Conference Presentations
+1.	Sutradhar, U., Haas, N. A., Zigulich, M., & Derrible, S. (2022, December). Investigating the Impacts of Depopulation and Climate Change on Water Infrastructure: A Study of Northeastern Illinois. In AGU Fall Meeting Abstracts (Vol. 2022, pp. GC22D-04).
+2.	Zigulich, M., Derrible, S., Haas, N. A., & Sutradhar, U. (2022, December). Green Infrastructure Design Storms: A Machine Learning Approach to Construct Short Duration Design Storms. In AGU Fall Meeting Abstracts (Vol. 2022, pp. H22O-1000).
+3.	Das, T., Sutradhar, U., Faruque, G. M., Hadiuzzaman, M., & Mashrur, S. M. (2019, August). Exploring Heterogeneity in Perception of Service Quality among Groups of Passenger Ferry Users. In International Conference on Transportation and Development 2019: Smarter and Safer Mobility and Cities (pp. 466-476). Reston, VA: American Society of Civil Engineers.________________________________________
+Skills
+•	Programming Languages: Python, R
+•	Software: GREET life-cycle model, MOVES motor vehicle emission simulator, PTV Vissim, ArcGIS, AutoCAD, EMME, BIOGEME and Microsoft Office.
+•	Languages: English- Proficient, Bangla- Native Language
+________________________________________
+Honors and Awards
+•	WTS Greater Chicago Chapter - President’s Scholarship (2022-23)
+
+
 
