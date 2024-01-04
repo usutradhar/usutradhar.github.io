@@ -45,6 +45,7 @@ ________________________________________
 •	Software: GREET life-cycle model, MOVES motor vehicle emission simulator, PTV Vissim, ArcGIS, AutoCAD, EMME, BIOGEME and Microsoft Office.
 
 •	Languages: English- Proficient, Bangla- Native Language
+
 ________________________________________
 ### Honors and Awards
 •	WTS Greater Chicago Chapter - President’s Scholarship (2022-23)
