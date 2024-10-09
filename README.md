@@ -16,8 +16,13 @@ Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh
 
 ### Research Experience
 **Research Assistant**, **Complex and Sustainable Urban Networks Laboratory**, University of Illinois Chicago, Chicago, IL\
+
 August 2021 – Present\
-•	Depopulation in Illinois: Understanding and Forecasting Impacts on Transportation (May 2021-Present)
+•	Quantify infrastructure in the U.S. cities: Buildings and Roadways (July 2023-Present)
+- 
+- 
+
+•	Depopulation in Illinois: Understanding and Forecasting Impacts on Transportation (May 2021-June 2023)
 - Identified population trends in cities in Illinois
 - Developed a survey to identify transportation challenges in depopulating cities in Illinois
 - Forecasted population trend for cities in Illinois for five SSPs based on the dataset developed by Hauer (2019) and NCAR data 
@@ -47,5 +52,8 @@ ________________________________________
 ### Honors and Awards
 •	WTS Greater Chicago Chapter - President’s Scholarship (2022-23)
 
+### Projects 
+•	Quantify infrastructure in the U.S. cities: Buildings and Roadways
 
+![](https://github.com/usutradhar/quantify-infrastructure/blob/main/below_10000.gif)
 
