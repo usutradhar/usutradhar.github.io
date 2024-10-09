@@ -55,5 +55,8 @@ ________________________________________
 ### Projects 
 •	Quantify infrastructure in the U.S. cities: Buildings and Roadways
 
+Median per capita RL (m/person) vs. median per capita RBUV (m3/person) by city type for each state for (a) cities with a population ≤ 10,000 and (b) cities with a population > 10,000. The darker transparency includes the distribution of 50% of the data points and the lighter transparency includes the distribution of 90% of the data points. Here, each data point represents the median value of per capita infrastructure for cities by state and city type category. With 50 states and 4 city types, each plot shows 200 data points. In this figure, an upward (right) shift indicates that per capita median value increases, thus an increasing burden. Conversely, a downward (left) shift means a lower burden. 
+
 ![](https://github.com/usutradhar/quantify-infrastructure/blob/main/below_10000.gif)
 
+![](https://github.com/usutradhar/quantify-infrastructure/blob/main/above_10000.gif)
