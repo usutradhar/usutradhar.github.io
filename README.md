@@ -16,8 +16,8 @@ Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh
 
 ### Research Experience
 **Research Assistant**, **Complex and Sustainable Urban Networks Laboratory**, University of Illinois Chicago, Chicago, IL\
+August 2021 – Present
 
-August 2021 – Present\
 •	Quantify infrastructure in the U.S. cities: Buildings and Roadways (July 2023-Present)
 - 
 - 
