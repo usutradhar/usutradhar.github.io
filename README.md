@@ -18,9 +18,10 @@ Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh
 **Research Assistant**, **Complex and Sustainable Urban Networks Laboratory**, University of Illinois Chicago, Chicago, IL\
 August 2021 – Present
 
-•	Quantify infrastructure in the U.S. cities: Buildings and Roadways (July 2023-Present)
-- 
-- 
+•	Impacts of depopulation on infrastructure- buildings and roadways (July 2023–Present)
+-	Extracted data from the Global Human Settlement Layer (GHSL) and OpenStreetMap (OSM) database
+-	Forecasted residential built-up volume and roadway lane meters for U.S. cities up to 2100
+-	Assessed infrastructure burden in terms of per capita quantity change over time
 
 •	Depopulation in Illinois: Understanding and Forecasting Impacts on Transportation (May 2021-June 2023)
 - Identified population trends in cities in Illinois
