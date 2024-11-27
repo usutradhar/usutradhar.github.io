@@ -59,11 +59,11 @@ ________________________________________
 
 (a) cities with a population ≤ 10,000
 
-<img alt="alt_text" width="500" height="400" src="https://github.com/usutradhar/quantify-infrastructure/blob/main/below_10000.gif"/> (https://github.com/usutradhar/quantify-infrastructure/blob/main/below_10000.gif)
+<img alt="cities with a population ≤ 10,000" width="500" height="400" src="https://github.com/usutradhar/quantify-infrastructure/blob/main/below_10000.gif"/> (https://github.com/usutradhar/quantify-infrastructure/blob/main/below_10000.gif)
 
 (b) cities with a population > 10,000
 
-<img src="https://github.com/usutradhar/quantify-infrastructure/blob/main/above_10000.gif" alt = (https://github.com/usutradhar/quantify-infrastructure/blob/main/above_10000.gif) width="500" height="400" >
+<img alt="cities with a population > 10,000" width="500" height="400" src="https://github.com/usutradhar/quantify-infrastructure/blob/main/above_10000.gif"/> (https://github.com/usutradhar/quantify-infrastructure/blob/main/above_10000.gif)
  
  The darker transparency includes the distribution of 50% of the data points and the lighter transparency includes the distribution of 90% of the data points. Here, each data point represents the median value of per capita infrastructure for cities by state and city type category. With 50 states and 4 city types, each plot shows 200 data points. In this figure, an upward (right) shift indicates that per capita median value increases, thus an increasing burden. Conversely, a downward (left) shift means a lower burden. 
 
