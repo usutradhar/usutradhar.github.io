@@ -58,7 +58,7 @@ ________________________________________
 
 (a) cities with a population ≤ 10,000
 
-<img alt="Fig 1" width="500" height="400" src="main/Figures/below_10000.gif"/>
+<img alt="Fig 1" width="500" height="400" src="Figures/below_10000.gif"/>
 
 (b) cities with a population > 10,000
 
