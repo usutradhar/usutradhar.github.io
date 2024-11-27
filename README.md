@@ -57,7 +57,7 @@ ________________________________________
 
 **Median per capita RL (m/person) vs. median per capita RBUV (m3/person) by city type for each state**
 
-(a) [![cities with a population ≤ 10,000]([https://github.com/usutradhar/quantify-infrastructure/blob/main/below_10000.gif])(https://github.com/usutradhar/quantify-infrastructure/blob/main/below_10000.gif)
+(a) [![cities with a population ≤ 10,000](https://github.com/usutradhar/quantify-infrastructure/blob/main/below_10000.gif)
 
 <img alt="Fig 1" width="500" height="400" src="https://github.com/usutradhar/quantify-infrastructure/blob/main/below_10000.gif"/> (https://github.com/usutradhar/quantify-infrastructure/blob/main/below_10000.gif)
 
