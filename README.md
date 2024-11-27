@@ -59,6 +59,8 @@ ________________________________________
 
 (a) cities with a population ≤ 10,000
 
+[![Alt text]([https://someimage.svg](https://github.com/usutradhar/quantify-infrastructure/blob/main/below_10000.gif))](https://github.com/usutradhar/quantify-infrastructure/blob/main/below_10000.gif)
+
 <img alt="Fig 1" width="500" height="400" src="https://github.com/usutradhar/quantify-infrastructure/blob/main/below_10000.gif"/> (https://github.com/usutradhar/quantify-infrastructure/blob/main/below_10000.gif)
 
 (b) cities with a population > 10,000
