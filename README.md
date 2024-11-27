@@ -54,7 +54,7 @@ ________________________________________
 •	WTS Greater Chicago Chapter - President’s Scholarship (2022-23)
 
 ### Projects 
-•	Impacts of depopulation on infrastructure- buildings and roadways : Median per capita RL (m/person) vs. median per capita RBUV (m3/person) by city type for each state**
+•	Impacts of depopulation on infrastructure- buildings and roadways : **Median per capita RL (m/person) vs. median per capita RBUV (m3/person) by city type for each state**
 
 (a) cities with a population ≤ 10,000
 
