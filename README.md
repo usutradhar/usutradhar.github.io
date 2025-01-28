@@ -36,7 +36,7 @@ Journal Articles
 3.	**Sutradhar, U.**, Badhrudeen, M., Chauhan, R. S., & Derrible, S. (2023). A survey to investigate transport conditions in depopulating cities in Illinois. Transportation Research Interdisciplinary Perspectives, 21, 100886.
 4.	Chauhan, R. S., da Silva, D. C., Salon, D., Shamshiripour, A., Rahimi, E., **Sutradhar, U.**, ... & Pendyala, R. (2021). COVID-19 related attitudes and risk perceptions across urban, rural, and suburban areas in the United States. Findings, 23714.
 
-Under Review / arXiv Papers
+Under Review / arXiv Papers \
 5.	**Sutradhar, U.**, Spearing, L., Zou, B., Chester, M., & Derrible, S. (2024). Evolution of infrastructure burden in US cities by 2100. Under review.
 
 Conference Presentations
