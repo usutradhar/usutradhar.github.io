@@ -1,12 +1,11 @@
 
 ### Education
 Ph.D. Candidate, University of Illinois Chicago, Chicago, IL (2025) \
-Advisor: Prof. Sybil Derrible
+Advisor: Prof. Sybil Derrible \
 Dissertation Title: The Impacts of Depopulation on Infrastructure
 
 M.Sc. in Civil and Transportation Engineering (2020) \
 Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh
-
 
 B.Sc. in Civil Engineering (2017) \
 Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh 
