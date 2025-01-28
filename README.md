@@ -55,9 +55,9 @@ ________________________________________
 •	Languages: English- Proficient, Bangla- Native Language
 
 ### Training and Workshops
-•	Intro to AI-driven Science on Supercomputers, Argonne National Laboratory
-•	The Future of Urban Accessibility: The Role of AI, ASSETS'24
-•	Envisioning Equitable Transitions to Sustainable Transportation Systems, Institute for Sustainability, Energy, and Environment (iSEE)
+•	Intro to AI-driven Science on Supercomputers, Argonne National Laboratory \
+•	The Future of Urban Accessibility: The Role of AI, ASSETS'24 \
+•	Envisioning Equitable Transitions to Sustainable Transportation Systems, Institute for Sustainability, Energy, and Environment (iSEE) \ 
 •	Introduction to EMME, online training on EMME basics including data management and network editing, multimodal network modelling, mapping (2D and 3D), analysis and scenario evaluation using EMME Desktop and Modeller.
 
 ### Honors and Awards
