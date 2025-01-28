@@ -1,7 +1,8 @@
 
 ### Education
-Ph.D. Candidate, University of Illinois Chicago, Chicago, IL \
+Ph.D. Candidate, University of Illinois Chicago, Chicago, IL (2025) \
 Advisor: Prof. Sybil Derrible
+Dissertation Title: The Impacts of Depopulation on Infrastructure
 
 M.Sc. in Civil and Transportation Engineering (2020) \
 Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh
@@ -30,21 +31,21 @@ August 2021 – Present
 
 ### Publications
 Journal Articles
-1. Chauhan, R.S., Sutradhar, U., Rozhkov, A. et al. Causation versus prediction in travel mode choice modeling. npj. Sustain. Mobil. Transp. 2, 5 (2025). https://doi.org/10.1038/s44333-024-00022-4
-2. Sutradhar, U., Spearing, L. & Derrible, S. Depopulation and associated challenges for US cities by 2100. Nat Cities 1, 51–61 (2024). https://doi.org/10.1038/s44284-023-00011-7
-3.	Sutradhar, U., Badhrudeen, M., Chauhan, R. S., & Derrible, S. (2023). A survey to investigate transport conditions in depopulating cities in Illinois. Transportation Research Interdisciplinary Perspectives, 21, 100886.
-4.	Chauhan, R. S., da Silva, D. C., Salon, D., Shamshiripour, A., Rahimi, E., Sutradhar, U., ... & Pendyala, R. (2021). COVID-19 related attitudes and risk perceptions across urban, rural, and suburban areas in the United States. Findings, 23714.
+1. Chauhan, R.S., **Sutradhar, U.**, Rozhkov, A. et al. Causation versus prediction in travel mode choice modeling. npj. Sustain. Mobil. Transp. 2, 5 (2025). https://doi.org/10.1038/s44333-024-00022-4
+2. **Sutradhar, U.**, Spearing, L. & Derrible, S. Depopulation and associated challenges for US cities by 2100. Nat Cities 1, 51–61 (2024). https://doi.org/10.1038/s44284-023-00011-7
+3.	**Sutradhar, U.**, Badhrudeen, M., Chauhan, R. S., & Derrible, S. (2023). A survey to investigate transport conditions in depopulating cities in Illinois. Transportation Research Interdisciplinary Perspectives, 21, 100886.
+4.	Chauhan, R. S., da Silva, D. C., Salon, D., Shamshiripour, A., Rahimi, E., **Sutradhar, U.**, ... & Pendyala, R. (2021). COVID-19 related attitudes and risk perceptions across urban, rural, and suburban areas in the United States. Findings, 23714.
 
 Under Review / arXiv Papers
-5.	Sutradhar, U., Spearing, L., Zou, B., Chester, M., & Derrible, S. (2024). Evolution of infrastructure burden in US cities by 2100. Under review.
+5.	**Sutradhar, U.**, Spearing, L., Zou, B., Chester, M., & Derrible, S. (2024). Evolution of infrastructure burden in US cities by 2100. Under review.
 
 Conference Presentations
-1.	Chauhan, R. S., Sutradhar, U., Rozhkov, A., & Derrible, S. (2025). "Causation versus Prediction in Travel Mode Choice Modeling”. TRB 104th Annual Meeting, Transportation Research Board, January 5-9, Washington DC, United States.
-2.	Sutradhar, U., Derrible, S. (2024). “Burden or Blessing! Quantifying Infrastructure in the Chicago Metropolitan Area”, Transport Chicago, June 14, Chicago, IL, United States.
-3.	Sutradhar, U., Benavides Lara, M. F., & Derrible, S. (2024). "Who pays for the additional maintenance costs: per capita roadway length in response to the changing demographics in U.S. cities to 2050?", TRB 103rd Annual Meeting, Transportation Research Board, January 7-11, Washington DC, United States.
-4.	Sutradhar, U., Haas, N. A., Zigulich, M., & Derrible, S. (2022). Investigating the Impacts of Depopulation and Climate Change on Water Infrastructure: A Study of Northeastern Illinois. In AGU Fall Meeting Abstracts (Vol. 2022, pp. GC22D-04).
-5.	Zigulich, M., Derrible, S., Haas, N. A., & Sutradhar, U. (2022). Green Infrastructure Design Storms: A Machine Learning Approach to Construct Short Duration Design Storms. In AGU Fall Meeting Abstracts (Vol. 2022, pp. H22O-1000).
-6.	Das, T., Sutradhar, U., Faruque, G. M., Hadiuzzaman, M., & Mashrur, S. M. (2019). Exploring Heterogeneity in Perception of Service Quality among Groups of Passenger Ferry Users. In International Conference on Transportation and Development 2019: Smarter and Safer Mobility and Cities (pp. 466-476). Reston, VA: American Society of Civil Engineers.
+1.	Chauhan, R. S., **Sutradhar, U.**, Rozhkov, A., & Derrible, S. (2025). "Causation versus Prediction in Travel Mode Choice Modeling”. TRB 104th Annual Meeting, Transportation Research Board, January 5-9, Washington DC, United States.
+2.	**Sutradhar, U.**, Derrible, S. (2024). “Burden or Blessing! Quantifying Infrastructure in the Chicago Metropolitan Area”, Transport Chicago, June 14, Chicago, IL, United States.
+3.	**Sutradhar, U.**, Benavides Lara, M. F., & Derrible, S. (2024). "Who pays for the additional maintenance costs: per capita roadway length in response to the changing demographics in U.S. cities to 2050?", TRB 103rd Annual Meeting, Transportation Research Board, January 7-11, Washington DC, United States.
+4.	**Sutradhar, U.**, Haas, N. A., Zigulich, M., & Derrible, S. (2022). Investigating the Impacts of Depopulation and Climate Change on Water Infrastructure: A Study of Northeastern Illinois. In AGU Fall Meeting Abstracts (Vol. 2022, pp. GC22D-04).
+5.	Zigulich, M., Derrible, S., Haas, N. A., & **Sutradhar, U.** (2022). Green Infrastructure Design Storms: A Machine Learning Approach to Construct Short Duration Design Storms. In AGU Fall Meeting Abstracts (Vol. 2022, pp. H22O-1000).
+6.	Das, T., **Sutradhar, U.**, Faruque, G. M., Hadiuzzaman, M., & Mashrur, S. M. (2019). Exploring Heterogeneity in Perception of Service Quality among Groups of Passenger Ferry Users. In International Conference on Transportation and Development 2019: Smarter and Safer Mobility and Cities (pp. 466-476). Reston, VA: American Society of Civil Engineers.
 
 ________________________________________
 ### Skills
