@@ -45,6 +45,7 @@ Conference Presentations
 4.	Sutradhar, U., Haas, N. A., Zigulich, M., & Derrible, S. (2022). Investigating the Impacts of Depopulation and Climate Change on Water Infrastructure: A Study of Northeastern Illinois. In AGU Fall Meeting Abstracts (Vol. 2022, pp. GC22D-04).
 5.	Zigulich, M., Derrible, S., Haas, N. A., & Sutradhar, U. (2022). Green Infrastructure Design Storms: A Machine Learning Approach to Construct Short Duration Design Storms. In AGU Fall Meeting Abstracts (Vol. 2022, pp. H22O-1000).
 6.	Das, T., Sutradhar, U., Faruque, G. M., Hadiuzzaman, M., & Mashrur, S. M. (2019). Exploring Heterogeneity in Perception of Service Quality among Groups of Passenger Ferry Users. In International Conference on Transportation and Development 2019: Smarter and Safer Mobility and Cities (pp. 466-476). Reston, VA: American Society of Civil Engineers.
+
 ________________________________________
 ### Skills
 •	Programming Languages: Python, R
