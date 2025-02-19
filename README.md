@@ -10,7 +10,21 @@ Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh
 B.Sc. in Civil Engineering (2017) \
 Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh 
 
+### Projects 
+•	Impacts of depopulation on infrastructure- buildings and roadways : **Median per capita RL (m/person) vs. median per capita RBUV (m3/person) by city type for each state**
 
+(a) cities with a population ≤ 10,000
+
+<img alt="Fig 1" width="500" height="400" src="Figures/below_10000.gif"/>
+
+(b) cities with a population > 10,000
+
+<img alt="Fig 2" width="500" height="400" src="Figures/above_10000.gif"/>
+
+ 
+ The darker transparency includes the distribution of 50% of the data points and the lighter transparency includes the distribution of 90% of the data points. Here, each data point represents the median value of per capita infrastructure for cities by state and city type category. With 50 states and 4 city types, each plot shows 200 data points. In this figure, an upward (right) shift indicates that per capita median value increases, thus an increasing burden. Conversely, a downward (left) shift means a lower burden. 
+
+ 
 ### Research Experience
 **Research Assistant**, **Complex and Sustainable Urban Networks Laboratory**, University of Illinois Chicago, Chicago, IL\
 August 2021 – Present
@@ -66,17 +80,5 @@ ________________________________________
 ### Honors and Awards
 •	WTS Greater Chicago Chapter - President’s Scholarship (2022-23)
 
-### Projects 
-•	Impacts of depopulation on infrastructure- buildings and roadways : **Median per capita RL (m/person) vs. median per capita RBUV (m3/person) by city type for each state**
 
-(a) cities with a population ≤ 10,000
-
-<img alt="Fig 1" width="500" height="400" src="Figures/below_10000.gif"/>
-
-(b) cities with a population > 10,000
-
-<img alt="Fig 2" width="500" height="400" src="Figures/above_10000.gif"/>
-
- 
- The darker transparency includes the distribution of 50% of the data points and the lighter transparency includes the distribution of 90% of the data points. Here, each data point represents the median value of per capita infrastructure for cities by state and city type category. With 50 states and 4 city types, each plot shows 200 data points. In this figure, an upward (right) shift indicates that per capita median value increases, thus an increasing burden. Conversely, a downward (left) shift means a lower burden. 
 
