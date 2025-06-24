@@ -5,14 +5,14 @@ Advisor: Prof. Sybil Derrible \
 Dissertation Title: The Impacts of Depopulation on Infrastructure
 
 M.Sc. in Civil and Transportation Engineering (2020) \
-Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh
+Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh \
 Thesis Title: Joint modeling of pedestrian and motorcycle crashes in urban setting using copula approach
 
 B.Sc. in Civil Engineering (2017) \
 Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh 
 
 ### Projects 
-### Impacts of depopulation on infrastructure- buildings and roadways :
+### Impacts of depopulation on infrastructure- buildings and roadways (July 2023–May 2025)
 - Extracted and processed data from the Global Human Settlement Layer (GHSL) and OpenStreetMap (OSM) database
 - Forecasted residential built-up volume and roadway lane meters for U.S. cities up to 2100
 - Assessed infrastructure burden in terms of per capita quantity change over time
