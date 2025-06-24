@@ -12,9 +12,6 @@ B.Sc. in Civil Engineering (2017) \
 Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh 
 
 ### Projects 
-#### **Research Assistant**, **Complex and Sustainable Urban Networks Laboratory**, University of Illinois Chicago, Chicago, IL\
-August 2021 – Present
-
 ### Impacts of depopulation on infrastructure- buildings and roadways :
 - Extracted and processed data from the Global Human Settlement Layer (GHSL) and OpenStreetMap (OSM) database
 - Forecasted residential built-up volume and roadway lane meters for U.S. cities up to 2100
