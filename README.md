@@ -43,10 +43,10 @@ The darker transparency includes the distribution of 50% of the data points and 
 ________________________________________
 ### Publications
 Journal Articles
-1.	Chauhan, R.S., Sutradhar, U., Rozhkov, A. et al. (2025). Causation versus prediction in travel mode choice modeling. npj. Sustain. Mobil. Transp. 2, 5. 
-2.	Sutradhar, U., Spearing, L., & Derrible, S. (2024). Depopulation and associated challenges for US cities by 2100. Nature Cities, 1(1), 51-61.
-3.	Sutradhar, U., Badhrudeen, M., Chauhan, R. S., & Derrible, S. (2023). A survey to investigate transport conditions in depopulating cities in Illinois. Transportation Research Interdisciplinary Perspectives, 21, 100886.
-4.	Chauhan, R. S., da Silva, D. C., Salon, D., Shamshiripour, A., Rahimi, E., Sutradhar, U., Khoeini, S., Mohammadian, A.K., Derrible, S., & Pendyala, R. (2021). COVID-19 related attitudes and risk perceptions across urban, rural, and suburban areas in the United States. Urban Findings, 23714.
+1.	Chauhan, R.S., Sutradhar, U., Rozhkov, A. et al. (2025). [Causation versus prediction in travel mode choice modeling](https://doi.org/10.1038/s44333-024-00022-4). npj. Sustain. Mobil. Transp. 2, 5. 
+2.	Sutradhar, U., Spearing, L., & Derrible, S. (2024). [Depopulation and associated challenges for US cities by 2100](https://doi.org/10.1038/s44284-023-00011-7). Nature Cities, 1(1), 51-61.
+3.	Sutradhar, U., Badhrudeen, M., Chauhan, R. S., & Derrible, S. (2023). [A survey to investigate transport conditions in depopulating cities in Illinois](https://doi.org/10.1016/j.trip.2023.100886). Transportation Research Interdisciplinary Perspectives, 21, 100886.
+4.	Chauhan, R. S., da Silva, D. C., Salon, D., et al. (2021). [COVID-19 related attitudes and risk perceptions across urban, rural, and suburban areas in the United States](https://doi.org/10.32866/001c.23714). Urban Findings, 23714.
 Under Review / arXiv Papers / Perspectives
 5.	Sutradhar, U., Spearing, L., Zou, B., Chester, M., & Derrible, S. (2024). Evolution of infrastructure burden in US cities by 2100. Under review.
 6.	Sutradhar, U., Spearing, L., Chester, M., Zou, B., Mohammadian, A. K., Kawamura, K., & Derrible, S. (2025). Depopulation: Infrastructure Challenges and Opportunities. Under review.
