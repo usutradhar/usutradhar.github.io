@@ -1,6 +1,6 @@
 
 ### Education
-Ph.D. Candidate, University of Illinois Chicago, Chicago, IL (2025) \
+Ph.D. in Civil Engineering, University of Illinois Chicago, Chicago, IL (2025) \
 Advisor: Prof. Sybil Derrible \
 Dissertation Title: The Impacts of Depopulation on Infrastructure
 
@@ -36,7 +36,6 @@ The darker transparency includes the distribution of 50% of the data points and 
 - Developed a survey to identify transportation challenges in depopulating cities in Illinois
 - Forecasted population trend for cities in Illinois for five SSPs based on the dataset developed by Hauer (2019) and NCAR data
 - Findings of this project can be accessed here [https://depopulation.digital.uic.edu/]
-- ADD AMP
 
 ####	Investigating Attitudinal and Behavioral Changes in US Households Before, During, and After the COVID-19 Pandemic (October 2020-April 2021) 
 - Worked to identify the scope of data imputation on completing the missing values in the survey data. Trying different available data imputation tools around 60% accuracy can be achieved in imputing the data.
