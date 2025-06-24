@@ -39,6 +39,7 @@ The darker transparency includes the distribution of 50% of the data points and 
 
 ####	Investigating Attitudinal and Behavioral Changes in US Households Before, During, and After the COVID-19 Pandemic (October 2020-April 2021) 
 - Worked to identify the scope of data imputation on completing the missing values in the survey data. Trying different available data imputation tools around 60% accuracy can be achieved in imputing the data.
+
 ________________________________________
 ### Publications
 Journal Articles
