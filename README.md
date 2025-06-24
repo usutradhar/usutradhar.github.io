@@ -11,10 +11,11 @@ Thesis Title: Joint modeling of pedestrian and motorcycle crashes in urban setti
 B.Sc. in Civil Engineering (2017) \
 Bangladesh University of Engineering and Technology (BUET), Dhaka, Bangladesh 
 
-### **Research Assistant**, **Complex and Sustainable Urban Networks Laboratory**, University of Illinois Chicago, Chicago, IL\
-August 2021 – Present
 ### Projects 
-## Impacts of depopulation on infrastructure- buildings and roadways :
+#### **Research Assistant**, **Complex and Sustainable Urban Networks Laboratory**, University of Illinois Chicago, Chicago, IL\
+August 2021 – Present
+
+### Impacts of depopulation on infrastructure- buildings and roadways :
 - Extracted and processed data from the Global Human Settlement Layer (GHSL) and OpenStreetMap (OSM) database
 - Forecasted residential built-up volume and roadway lane meters for U.S. cities up to 2100
 - Assessed infrastructure burden in terms of per capita quantity change over time
@@ -33,16 +34,16 @@ August 2021 – Present
  
 The darker transparency includes the distribution of 50% of the data points and the lighter transparency includes the distribution of 90% of the data points. Here, each data point represents the median value of per capita infrastructure for cities by state and city type category. With 50 states and 4 city types, each plot shows 200 data points. In this figure, an upward (right) shift indicates that per capita median value increases, thus an increasing burden. Conversely, a downward (left) shift means a lower burden. 
 
-##	Depopulation in Illinois: Understanding and Forecasting Impacts on Transportation (May 2021-June 2023)
+####	Depopulation in Illinois: Understanding and Forecasting Impacts on Transportation (May 2021-June 2023)
 - Identified population trends in cities in Illinois
 - Developed a survey to identify transportation challenges in depopulating cities in Illinois
 - Forecasted population trend for cities in Illinois for five SSPs based on the dataset developed by Hauer (2019) and NCAR data
-- Findings of the project
+- Findings of this project can be accessed here [https://depopulation.digital.uic.edu/]
 - ADD AMP
 
-•	Investigating Attitudinal and Behavioral Changes in US Households Before, During, and After the COVID-19 Pandemic (October 2020-April 2021) 
+####	Investigating Attitudinal and Behavioral Changes in US Households Before, During, and After the COVID-19 Pandemic (October 2020-April 2021) 
 - Worked to identify the scope of data imputation on completing the missing values in the survey data. Trying different available data imputation tools around 60% accuracy can be achieved in imputing the data.
-- Findings of thisproject can be accessed here [https://depopulation.digital.uic.edu/]
+
 
 ### Publications
 Journal Articles
