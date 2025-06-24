@@ -63,7 +63,7 @@ Conference Presentations
 ________________________________________
 ### Skills
 #### Programming Languages & Tools	
-**Python** (Pandas, Numpy, matplotlib, plotly, statsmodel, SciPy, Scikit‑learn, Networkx, osm2gmns, geopandas, shapely, TensorFlow, NLTK, beautifulsoup, Selenium etc.) \
+**Python** (Pandas, Numpy, matplotlib, plotly, statsmodel, SciPy, Scikit‑learn, Networkx, osm2gmns, geopandas, shapely, gdal, rasterio, TensorFlow, NLTK, beautifulsoup, Selenium etc.) \
 **R** (sf, terra, exactextractr, dplyr, raster, tidyr, data.table, tidyverse, ggplot2, ggspatial, tmap) \
 **MATLAB**
 #### Data Analysis	
