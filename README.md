@@ -63,9 +63,9 @@ ________________________________________
 ### Skills
 •	Programming Languages & Tools	Python (Pandas, Numpy, matplotlib, plotly, statsmodel, SciPy, Scikit‑learn, Networkx, osm2gmns, geopandas, shapely, TensorFlow, NLTK, beautifulsoup, Selenium etc.)
                                 R (sf, terra, exactextractr, dplyr, raster, tidyr, data.table, tidyverse, ggplot2, ggspatial, tmap)
-                                MATLAB
-•	Data Analysis	Statistical techniques (Discrete Choice, Copula), Machine Learning (Regression, Classification, Clustering), LangChain
-•	Software	GREET, MOVES, EMME, PTV Vissim, ArcGIS, QGIS, AutoCAD, ETABS, BIOGEME, basic SQL, Microsoft Offices
+                                MATLAB \
+•	Data Analysis	Statistical techniques (Discrete Choice, Copula), Machine Learning (Regression, Classification, Clustering), LangChain \
+•	Software	GREET, MOVES, EMME, PTV Vissim, ArcGIS, QGIS, AutoCAD, ETABS, BIOGEME, basic SQL, Microsoft Offices \
 
 
 ### Training and Workshops
