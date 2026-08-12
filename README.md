@@ -52,7 +52,7 @@ Journal Articles
 
 Under Review / arXiv Papers / Perspectives 
 
-7.	**Sutradhar, U.**, Spearing, L., Zou, B., Chester, M., & Derrible, S. (2024). Evolution of infrastructure burden in US cities by 2100. Under review.
+7.	**Sutradhar, U.**, Spearing, L., Zou, B., Chester, M., & Derrible, S. (2025). [Evolution of infrastructure burden in US cities by 2100](https://www.researchsquare.com/article/rs-5505742/v1). Under review.
 
 Conference Presentations 
 1.	Chauhan, R. S., **Sutradhar, U.**, Rozhkov, A., & Derrible, S. (2025). "Causation versus Prediction in Travel Mode Choice Modeling”. TRB 104th Annual Meeting, Transportation Research Board, January 5-9, Washington DC, United States.
