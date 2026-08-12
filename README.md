@@ -43,14 +43,15 @@ The darker transparency includes the distribution of 50% of the data points and 
 ________________________________________
 ### Publications
 Journal Articles 
-1.	Chauhan, R.S., **Sutradhar, U.**, Rozhkov, A. et al. (2025). [Causation versus prediction in travel mode choice modeling](https://doi.org/10.1038/s44333-024-00022-4). npj. Sustain. Mobil. Transp. 2, 5. 
-2.	**Sutradhar, U.**, Spearing, L., & Derrible, S. (2024). [Depopulation and associated challenges for US cities by 2100](https://doi.org/10.1038/s44284-023-00011-7). Nature Cities, 1(1), 51-61.
-3.	**Sutradhar, U.**, Badhrudeen, M., Chauhan, R. S., & Derrible, S. (2023). [A survey to investigate transport conditions in depopulating cities in Illinois](https://doi.org/10.1016/j.trip.2023.100886). Transportation Research Interdisciplinary Perspectives, 21, 100886.
-4.	Chauhan, R. S., da Silva, D. C., Salon, D., et al. (2021). [COVID-19 related attitudes and risk perceptions across urban, rural, and suburban areas in the United States](https://doi.org/10.32866/001c.23714). Urban Findings, 23714.
+1. Acosta-Sequeda, J., **Sutradhar, U.**, Allahakbari, F., Bansal, A., Derrible, S., Auld, J., & Verbas, Ö. (2026). [Estimating the Impact of EV Charging in Chicago Based on Patterns Evidenced in a Sample Charging Facility](https://www.jstt.vn/index.php/en/article/view/487). Journal of Science and Transport Technology, 206-217.
+2. **Sutradhar, U.**, Spearing, L., Chester, M., Zou, B., Mohammadian, A. K., Kawamura, K., & Derrible, S. (2025). [Depopulation: Infrastructure Challenges and Opportunities].(https://iopscience.iop.org/article/10.1088/2634-4505/ae0962).Environmental Research: Infrastructure and Sustainability 5.4 (2025): 043001.
+3.	Chauhan, R.S., **Sutradhar, U.**, Rozhkov, A. et al. (2025). [Causation versus prediction in travel mode choice modeling](https://doi.org/10.1038/s44333-024-00022-4). npj. Sustain. Mobil. Transp. 2, 5. 
+4.	**Sutradhar, U.**, Spearing, L., & Derrible, S. (2024). [Depopulation and associated challenges for US cities by 2100](https://doi.org/10.1038/s44284-023-00011-7). Nature Cities, 1(1), 51-61.
+5.	**Sutradhar, U.**, Badhrudeen, M., Chauhan, R. S., & Derrible, S. (2023). [A survey to investigate transport conditions in depopulating cities in Illinois](https://doi.org/10.1016/j.trip.2023.100886). Transportation Research Interdisciplinary Perspectives, 21, 100886.
+6.	Chauhan, R. S., da Silva, D. C., Salon, D., et al. (2021). [COVID-19 related attitudes and risk perceptions across urban, rural, and suburban areas in the United States](https://doi.org/10.32866/001c.23714). Urban Findings, 23714.
 
 Under Review / arXiv Papers / Perspectives 
-6.	**Sutradhar, U.**, Spearing, L., Zou, B., Chester, M., & Derrible, S. (2024). Evolution of infrastructure burden in US cities by 2100. Under review.
-7.	**Sutradhar, U.**, Spearing, L., Chester, M., Zou, B., Mohammadian, A. K., Kawamura, K., & Derrible, S. (2025). Depopulation: Infrastructure Challenges and Opportunities. Under review.
+7.	**Sutradhar, U.**, Spearing, L., Zou, B., Chester, M., & Derrible, S. (2024). Evolution of infrastructure burden in US cities by 2100. Under review.
 
 Conference Presentations 
 1.	Chauhan, R. S., **Sutradhar, U.**, Rozhkov, A., & Derrible, S. (2025). "Causation versus Prediction in Travel Mode Choice Modeling”. TRB 104th Annual Meeting, Transportation Research Board, January 5-9, Washington DC, United States.
